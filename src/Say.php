@@ -11,7 +11,7 @@ class Say
 {
     public static function hello()
     {
-        echo "hello world!!";
+        echo "hello world";
     }
 }
 
